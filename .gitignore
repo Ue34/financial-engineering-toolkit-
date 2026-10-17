@@ -1,0 +1,21 @@
+# Prerequisites
+*.pyc
+__pycache__/
+
+# Environments and Orchestration
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Local Financial Datasets and Database Stores
+*.csv
+*.xlsx
+*.sqlite
+*.db
+.data/
+
+# Jupyter Notebook Artifacts and Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
